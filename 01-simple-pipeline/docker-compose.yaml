@@ -1,0 +1,7 @@
+services:
+  simple-pipeline-consumer:
+    build: ./consumer
+    volumes:
+      - ./logs:consumer/logs
+    env_file:
+      - consumer/.env
