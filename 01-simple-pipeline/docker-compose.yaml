@@ -2,6 +2,12 @@ services:
   simple-pipeline-consumer:
     build: ./consumer
     volumes:
-      - ./logs:consumer/logs
+      - ./logs:/consumer/logs
     env_file:
       - consumer/.env
+    networks:
+      - kafka-broker_kafka-net
+
+networks:
+  kafka-broker_kafka-net:
+    external: true

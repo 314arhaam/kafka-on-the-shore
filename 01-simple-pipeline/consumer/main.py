@@ -3,9 +3,6 @@ from kafka import KafkaConsumer
 from utils import get_logger
 import dotenv
 
-if not dotenv.load_dotenv():
-    raise ValueError(".env not loaded")
-
 logger = get_logger()
 
 consumer = KafkaConsumer(
