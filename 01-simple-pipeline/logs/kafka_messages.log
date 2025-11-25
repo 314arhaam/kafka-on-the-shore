@@ -9,3 +9,109 @@
 2025-11-25 08:20:33,165 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=7, Key=None, Value=hello-2
 2025-11-25 08:20:33,167 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=8, Key=None, Value=hello-3
 2025-11-25 08:20:33,169 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=9, Key=None, Value=hello-4
+2025-11-25 08:21:41,916 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=10, Key=None, Value=hello-0
+2025-11-25 08:21:41,919 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=11, Key=None, Value=hello-1
+2025-11-25 08:21:41,923 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=12, Key=None, Value=hello-2
+2025-11-25 08:21:41,925 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=13, Key=None, Value=hello-3
+2025-11-25 08:21:41,926 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=14, Key=None, Value=hello-4
+2025-11-25 08:25:58,841 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=0, Key=None, Value=hello-0
+2025-11-25 08:25:58,843 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=1, Key=None, Value=hello-1
+2025-11-25 08:25:58,844 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=2, Key=None, Value=hello-2
+2025-11-25 08:25:58,845 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=3, Key=None, Value=hello-3
+2025-11-25 08:25:58,846 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=4, Key=None, Value=hello-4
+2025-11-25 08:26:51,639 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=5, Key=None, Value=hello-0
+2025-11-25 08:26:51,641 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=6, Key=None, Value=hello-1
+2025-11-25 08:26:51,641 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=7, Key=None, Value=hello-2
+2025-11-25 08:26:51,642 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=8, Key=None, Value=hello-3
+2025-11-25 08:26:51,643 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=9, Key=None, Value=hello-4
+2025-11-25 08:26:53,170 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=10, Key=None, Value=hello-0
+2025-11-25 08:26:53,176 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=11, Key=None, Value=hello-1
+2025-11-25 08:26:53,177 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=12, Key=None, Value=hello-2
+2025-11-25 08:26:53,179 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=13, Key=None, Value=hello-3
+2025-11-25 08:26:53,180 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=14, Key=None, Value=hello-4
+2025-11-25 08:27:46,767 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=15, Key=None, Value=hello-0
+2025-11-25 08:27:46,769 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=16, Key=None, Value=hello-1
+2025-11-25 08:27:46,771 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=17, Key=None, Value=hello-2
+2025-11-25 08:27:46,771 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=18, Key=None, Value=hello-3
+2025-11-25 08:27:46,772 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=19, Key=None, Value=hello-4
+2025-11-25 08:27:48,229 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=20, Key=None, Value=hello-0
+2025-11-25 08:27:48,232 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=21, Key=None, Value=hello-1
+2025-11-25 08:27:48,234 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=22, Key=None, Value=hello-2
+2025-11-25 08:27:48,236 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=23, Key=None, Value=hello-3
+2025-11-25 08:27:48,238 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=24, Key=None, Value=hello-4
+2025-11-25 08:27:49,533 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=25, Key=None, Value=hello-0
+2025-11-25 08:27:49,536 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=26, Key=None, Value=hello-1
+2025-11-25 08:27:49,538 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=27, Key=None, Value=hello-2
+2025-11-25 08:27:49,539 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=28, Key=None, Value=hello-3
+2025-11-25 08:27:49,540 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=29, Key=None, Value=hello-4
+2025-11-25 08:53:39,798 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=30, Key=None, Value=hello-0
+2025-11-25 08:53:39,806 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=31, Key=None, Value=hello-1
+2025-11-25 08:53:39,809 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=32, Key=None, Value=hello-2
+2025-11-25 08:53:39,812 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=33, Key=None, Value=hello-3
+2025-11-25 08:53:39,815 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=34, Key=None, Value=hello-4
+2025-11-25 09:40:30,333 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=35, Key=None, Value=hello-0
+2025-11-25 09:40:30,341 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=36, Key=None, Value=hello-1
+2025-11-25 09:40:30,343 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=37, Key=None, Value=hello-2
+2025-11-25 09:40:30,344 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=38, Key=None, Value=hello-3
+2025-11-25 09:40:30,346 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=39, Key=None, Value=hello-4
+2025-11-25 09:45:35,391 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=40, Key=None, Value=hello-0
+2025-11-25 09:45:35,394 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=41, Key=None, Value=hello-1
+2025-11-25 09:45:35,395 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=42, Key=None, Value=hello-2
+2025-11-25 09:45:35,397 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=43, Key=None, Value=hello-3
+2025-11-25 09:45:35,399 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=44, Key=None, Value=hello-4
+2025-11-25 09:46:03,573 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=45, Key=None, Value=hello-0
+2025-11-25 09:46:03,580 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=46, Key=None, Value=hello-1
+2025-11-25 09:46:03,582 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=47, Key=None, Value=hello-2
+2025-11-25 09:46:03,583 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=48, Key=None, Value=hello-3
+2025-11-25 09:46:03,585 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=49, Key=None, Value=hello-4
+2025-11-25 09:46:50,061 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=50, Key=None, Value=hello
+2025-11-25 09:46:50,066 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=51, Key=None, Value=hello
+2025-11-25 09:46:50,069 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=52, Key=None, Value=hello
+2025-11-25 09:46:50,073 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=53, Key=None, Value=hello
+2025-11-25 09:46:50,076 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=54, Key=None, Value=hello
+2025-11-25 09:46:50,079 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=55, Key=None, Value=hello
+2025-11-25 09:46:50,080 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=56, Key=None, Value=hello
+2025-11-25 09:46:50,082 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=57, Key=None, Value=hello
+2025-11-25 09:46:50,084 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=58, Key=None, Value=hello
+2025-11-25 09:46:50,086 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=59, Key=None, Value=hello
+2025-11-25 09:49:05,545 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=60, Key=None, Value=t2
+2025-11-25 09:49:05,549 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=61, Key=None, Value=t2
+2025-11-25 09:49:05,551 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=62, Key=None, Value=t2
+2025-11-25 09:49:05,553 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=63, Key=None, Value=t2
+2025-11-25 09:49:42,560 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=64, Key=None, Value=t2
+2025-11-25 09:49:42,565 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=65, Key=None, Value=t2
+2025-11-25 09:49:42,566 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=66, Key=None, Value=t2
+2025-11-25 09:49:42,569 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=67, Key=None, Value=t2
+2025-11-25 09:50:04,236 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=68, Key=None, Value=sample long message test
+2025-11-25 09:50:04,239 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=69, Key=None, Value=sample long message test
+2025-11-25 09:50:04,241 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=70, Key=None, Value=sample long message test
+2025-11-25 09:50:04,243 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=71, Key=None, Value=sample long message test
+2025-11-25 09:50:04,245 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=72, Key=None, Value=sample long message test
+2025-11-25 09:50:04,248 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=73, Key=None, Value=sample long message test
+2025-11-25 09:50:04,250 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=74, Key=None, Value=sample long message test
+2025-11-25 09:50:04,252 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=75, Key=None, Value=sample long message test
+2025-11-25 09:50:04,255 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=76, Key=None, Value=sample long message test
+2025-11-25 09:50:04,257 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=77, Key=None, Value=sample long message test
+2025-11-25 09:50:04,258 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=78, Key=None, Value=sample long message test
+2025-11-25 09:50:04,260 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=79, Key=None, Value=sample long message test
+2025-11-25 09:50:04,263 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=80, Key=None, Value=sample long message test
+2025-11-25 09:50:04,264 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=81, Key=None, Value=sample long message test
+2025-11-25 09:50:04,267 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=82, Key=None, Value=sample long message test
+2025-11-25 09:50:04,268 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=83, Key=None, Value=sample long message test
+2025-11-25 09:50:04,272 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=84, Key=None, Value=sample long message test
+2025-11-25 09:50:04,274 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=85, Key=None, Value=sample long message test
+2025-11-25 09:50:04,276 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=86, Key=None, Value=sample long message test
+2025-11-25 09:50:04,278 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=87, Key=None, Value=sample long message test
+2025-11-25 09:53:07,404 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=88, Key=None, Value=default_message
+2025-11-25 09:53:07,406 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=89, Key=None, Value=default_message
+2025-11-25 09:53:07,407 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=90, Key=None, Value=default_message
+2025-11-25 09:53:07,408 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=91, Key=None, Value=default_message
+2025-11-25 09:53:07,410 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=92, Key=None, Value=default_message
+2025-11-25 09:53:07,411 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=93, Key=None, Value=default_message
+2025-11-25 09:53:07,413 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=94, Key=None, Value=default_message
+2025-11-25 09:53:07,414 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=95, Key=None, Value=default_message
+2025-11-25 09:53:07,415 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=96, Key=None, Value=default_message
+2025-11-25 09:53:07,416 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=97, Key=None, Value=default_message
+2025-11-25 09:53:24,262 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=98, Key=None, Value=entry_test
+2025-11-25 09:53:24,264 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=99, Key=None, Value=entry_test
+2025-11-25 09:53:24,265 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=100, Key=None, Value=entry_test
