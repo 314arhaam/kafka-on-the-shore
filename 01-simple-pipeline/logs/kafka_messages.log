@@ -1,0 +1,11 @@
+2025-11-25 06:48:50,319 | INFO | Kafka consumer started. Listening on test-topic...
+2025-11-25 08:20:15,178 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=0, Key=None, Value=hello-0
+2025-11-25 08:20:15,183 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=1, Key=None, Value=hello-1
+2025-11-25 08:20:15,185 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=2, Key=None, Value=hello-2
+2025-11-25 08:20:15,187 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=3, Key=None, Value=hello-3
+2025-11-25 08:20:15,189 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=4, Key=None, Value=hello-4
+2025-11-25 08:20:33,161 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=5, Key=None, Value=hello-0
+2025-11-25 08:20:33,163 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=6, Key=None, Value=hello-1
+2025-11-25 08:20:33,165 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=7, Key=None, Value=hello-2
+2025-11-25 08:20:33,167 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=8, Key=None, Value=hello-3
+2025-11-25 08:20:33,169 | INFO | Consumed | Topic=test-topic, Partition=0, Offset=9, Key=None, Value=hello-4
